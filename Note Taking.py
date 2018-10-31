@@ -2,7 +2,7 @@ from tkinter import *
 import pymysql
 
 root=Tk()
-root.title("Note Taking App")
+root.title("Note Taking App..")
 
 
 
